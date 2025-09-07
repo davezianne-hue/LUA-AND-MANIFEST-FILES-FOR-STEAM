@@ -6,10 +6,14 @@ if you downloaded a rockstar game please uninstall it because it wont work due t
 
 the numbers are the appid for steam
 
-TUTORIAL
-DONT EXTRACT THE ZIP FILE
+TUTORIAL - easy mode
+EXTRACT THE LUA AND MANIFEST FILES -STEAM.ZIP
 
-OPEN THE ZIP FOLDER
+OPEN THE FILE
+
+DONT EXTRACT THE ZIP FILES ON THE LUA AND MANIFEST FILES -STEAM.folder
+
+OPEN A ZIP FOLDER YOU DESIRE
 
 SELECT THE LUA AND MANIFEST FILES ONLY
 
