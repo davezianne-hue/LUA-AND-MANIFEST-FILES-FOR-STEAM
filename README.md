@@ -4,6 +4,8 @@ STEAM ACCOUNT
 
 if you downloaded a rockstar game please uninstall it because it wont work due to drdm
 
+the numbers are the appid for steam
+
 TUTORIAL
 DONT EXTRACT THE ZIP FILE
 
